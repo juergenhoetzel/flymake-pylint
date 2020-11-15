@@ -1,0 +1,7 @@
+#+title: flymake-pylint
+
+Usage:
+#+begin_src elisp
+(add-hook 'python-mode-hook #'flymake-pylint-setup)
+#+end_src
+
